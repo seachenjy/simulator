@@ -1,0 +1,9 @@
+{
+  "name": "com.simulator.mouse",
+  "description": "simulator",
+  "path": "/Users/chenhai/Documents/github/simulator/main",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://ghbmnnjooekpmoecnnnilnnbdlolhkhi/"
+  ]
+}

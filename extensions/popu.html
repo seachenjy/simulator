@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset=UTF-8>
+    <style type="text/css">
+      body {
+        width:600px;
+        height:500px;
+      }
+      #app {
+        display: flex;
+        flex-direction: column;
+        height:100%;
+      }
+      textarea { flex:1 }
+      .flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      .color-danger {
+        color:#d00;
+      }
+      .color-success {
+        color:rgb(23, 158, 30);
+      }
+      </style>
+  </head>
+  <body>
+    <div id="app">
+      <div class="flex">
+        <div>状态: <span v-if="connect==0" class="color-danger">未连接</span><span v-else class="color-success">已连接</span></div>
+        <div>偏移: </div>
+        <label>x<input type="number" v-model="offset_x" /></label>
+        <label>y<input type="number" v-model="offset_y" /></label>
+        <button @click="test">test</button>
+      </div>
+      <textarea placeholder="命令" v-model="command"></textarea>
+      <button @click="run_cmd">运行</button>
+    </div>
+    <script src='./vue.min.js'></script>
+    <script src='./main.js'></script>
+  </body>
+</html>

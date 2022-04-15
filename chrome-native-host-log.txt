@@ -1,0 +1,479 @@
+TRACE: 2022/03/05 18:14:36 main.go:117: Stdin closed.
+TRACE: 2022/03/05 18:14:36 main.go:80: Chrome native messaging host exited.
+TRACE: 2022/03/05 18:15:42 main.go:78: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/05 18:15:42 main.go:88: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/05 18:15:44 main.go:98: Message size in bytes: 32
+TRACE: 2022/03/05 18:15:44 main.go:134: Message received: {"t":"m","x":100,"y":100,"s":""}
+TRACE: 2022/03/05 18:15:44 main.go:140: decode: {T:m X:100 Y:100 S:}
+TRACE: 2022/03/05 18:15:48 main.go:98: Message size in bytes: 32
+TRACE: 2022/03/05 18:15:48 main.go:134: Message received: {"t":"m","x":100,"y":100,"s":""}
+TRACE: 2022/03/05 18:15:48 main.go:140: decode: {T:m X:100 Y:100 S:}
+TRACE: 2022/03/05 18:15:48 main.go:98: Message size in bytes: 32
+TRACE: 2022/03/05 18:15:48 main.go:134: Message received: {"t":"m","x":100,"y":100,"s":""}
+TRACE: 2022/03/05 18:15:48 main.go:140: decode: {T:m X:100 Y:100 S:}
+TRACE: 2022/03/05 18:16:07 main.go:117: Stdin closed.
+TRACE: 2022/03/05 18:16:07 main.go:80: Chrome native messaging host exited.
+TRACE: 2022/03/05 18:21:41 main.go:78: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/05 18:21:41 main.go:88: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/05 18:21:44 main.go:98: Message size in bytes: 32
+TRACE: 2022/03/05 18:21:44 main.go:134: Message received: {"t":"m","x":100,"y":100,"s":""}
+TRACE: 2022/03/05 18:21:44 main.go:140: decode: {T:m X:100 Y:100 S:}
+TRACE: 2022/03/05 18:21:50 main.go:98: Message size in bytes: 32
+TRACE: 2022/03/05 18:21:50 main.go:134: Message received: {"t":"m","x":100,"y":100,"s":""}
+TRACE: 2022/03/05 18:21:50 main.go:140: decode: {T:m X:100 Y:100 S:}
+TRACE: 2022/03/05 18:25:54 main.go:117: Stdin closed.
+TRACE: 2022/03/05 18:25:54 main.go:80: Chrome native messaging host exited.
+TRACE: 2022/03/05 18:29:47 main.go:78: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/05 18:29:47 main.go:88: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/05 18:29:49 main.go:98: Message size in bytes: 32
+TRACE: 2022/03/05 18:29:49 main.go:134: Message received: {"t":"m","x":100,"y":100,"s":""}
+TRACE: 2022/03/05 18:29:49 main.go:140: decode: {T:m X:100 Y:100 S:}
+TRACE: 2022/03/05 18:29:51 main.go:98: Message size in bytes: 32
+TRACE: 2022/03/05 18:29:51 main.go:134: Message received: {"t":"m","x":100,"y":100,"s":""}
+TRACE: 2022/03/05 18:29:51 main.go:140: decode: {T:m X:100 Y:100 S:}
+TRACE: 2022/03/05 18:30:06 main.go:98: Message size in bytes: 32
+TRACE: 2022/03/05 18:30:06 main.go:134: Message received: {"t":"m","x":100,"y":100,"s":""}
+TRACE: 2022/03/05 18:30:06 main.go:140: decode: {T:m X:100 Y:100 S:}
+TRACE: 2022/03/05 18:30:37 main.go:117: Stdin closed.
+TRACE: 2022/03/05 18:30:37 main.go:80: Chrome native messaging host exited.
+TRACE: 2022/03/05 21:36:54 main.go:78: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/05 21:36:54 main.go:88: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/05 21:41:04 main.go:117: Stdin closed.
+TRACE: 2022/03/05 21:41:04 main.go:80: Chrome native messaging host exited.
+TRACE: 2022/03/06 21:25:40 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/06 21:25:40 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/06 21:26:30 main.go:109: Stdin closed.
+TRACE: 2022/03/06 21:26:30 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/07 10:13:26 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/07 10:13:26 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/07 10:14:40 main.go:109: Stdin closed.
+TRACE: 2022/03/07 10:14:40 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/07 10:16:21 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/07 10:16:21 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/07 10:18:34 main.go:109: Stdin closed.
+TRACE: 2022/03/07 10:18:34 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/07 10:18:45 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/07 10:18:45 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/07 10:18:52 main.go:109: Stdin closed.
+TRACE: 2022/03/07 10:18:52 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/07 10:19:09 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/07 10:19:09 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/07 10:19:37 main.go:109: Stdin closed.
+TRACE: 2022/03/07 10:19:37 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/07 13:58:33 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/07 13:58:33 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/07 15:14:23 main.go:109: Stdin closed.
+TRACE: 2022/03/07 15:14:23 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/07 15:14:24 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/07 15:14:24 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/07 15:14:27 main.go:109: Stdin closed.
+TRACE: 2022/03/07 15:14:27 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 20:43:05 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 20:43:05 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 20:43:59 main.go:109: Stdin closed.
+TRACE: 2022/03/08 20:43:59 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 20:45:04 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 20:45:04 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 20:46:42 main.go:109: Stdin closed.
+TRACE: 2022/03/08 20:46:42 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 20:46:52 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 20:46:52 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 20:47:17 main.go:109: Stdin closed.
+TRACE: 2022/03/08 20:47:17 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 20:48:09 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 20:48:09 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 20:48:45 main.go:109: Stdin closed.
+TRACE: 2022/03/08 20:48:45 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 20:48:53 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 20:48:53 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 20:48:58 main.go:109: Stdin closed.
+TRACE: 2022/03/08 20:48:58 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 20:51:18 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 20:51:18 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 20:54:38 main.go:109: Stdin closed.
+TRACE: 2022/03/08 20:54:38 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 20:55:08 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 20:55:08 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 20:56:13 main.go:109: Stdin closed.
+TRACE: 2022/03/08 20:56:13 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 20:56:23 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 20:56:23 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 20:56:40 main.go:109: Stdin closed.
+TRACE: 2022/03/08 20:56:40 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 20:58:24 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 20:58:24 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 20:59:01 main.go:109: Stdin closed.
+TRACE: 2022/03/08 20:59:01 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 20:59:06 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 20:59:06 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 20:59:13 main.go:109: Stdin closed.
+TRACE: 2022/03/08 20:59:13 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 20:59:16 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 20:59:16 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 21:02:31 main.go:109: Stdin closed.
+TRACE: 2022/03/08 21:02:31 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 21:02:38 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 21:02:38 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 21:03:12 main.go:109: Stdin closed.
+TRACE: 2022/03/08 21:03:12 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 21:03:18 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 21:03:18 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 21:03:20 main.go:109: Stdin closed.
+TRACE: 2022/03/08 21:03:20 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 21:03:42 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 21:03:42 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 21:03:47 main.go:109: Stdin closed.
+TRACE: 2022/03/08 21:03:47 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 21:03:50 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 21:03:50 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 21:03:54 main.go:109: Stdin closed.
+TRACE: 2022/03/08 21:03:54 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 21:24:01 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 21:24:01 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 21:24:02 main.go:109: Stdin closed.
+TRACE: 2022/03/08 21:24:02 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 21:25:39 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 21:25:39 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 21:25:50 main.go:109: Stdin closed.
+TRACE: 2022/03/08 21:25:50 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 21:27:31 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 21:27:31 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 21:27:49 main.go:109: Stdin closed.
+TRACE: 2022/03/08 21:27:49 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 21:28:07 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 21:28:07 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 21:36:19 main.go:109: Stdin closed.
+TRACE: 2022/03/08 21:36:19 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 21:37:42 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 21:37:42 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 21:38:19 main.go:109: Stdin closed.
+TRACE: 2022/03/08 21:38:19 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/08 21:45:05 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 21:45:05 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 21:45:14 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/08 21:45:14 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/08 21:45:41 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/08 21:45:41 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/08 21:45:56 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/08 21:45:56 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/08 22:01:33 main.go:109: Stdin closed.
+TRACE: 2022/03/08 22:01:33 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 20:01:14 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 20:01:14 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 20:01:24 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 20:01:24 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 20:01:33 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 20:01:33 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 20:01:58 main.go:109: Stdin closed.
+TRACE: 2022/03/09 20:01:58 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 20:03:10 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 20:03:10 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 20:04:08 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 20:04:08 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 20:04:17 main.go:109: Stdin closed.
+TRACE: 2022/03/09 20:04:17 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:00:01 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:00:01 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:00:21 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:00:21 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:09:56 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:09:56 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:09:58 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:09:58 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:25:00 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:25:00 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:25:02 main.go:90: Message size in bytes: 21
+TRACE: 2022/03/09 22:25:02 main.go:126: Message received: {"t":"m","x":0,"y":0}
+TRACE: 2022/03/09 22:25:05 main.go:90: Message size in bytes: 21
+TRACE: 2022/03/09 22:25:05 main.go:126: Message received: {"t":"m","x":0,"y":0}
+TRACE: 2022/03/09 22:25:07 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:25:07 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:25:09 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:25:09 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:25:10 main.go:90: Message size in bytes: 21
+TRACE: 2022/03/09 22:25:10 main.go:126: Message received: {"t":"m","x":0,"y":0}
+TRACE: 2022/03/09 22:25:56 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:25:56 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:26:01 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:26:01 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:26:05 main.go:90: Message size in bytes: 28
+TRACE: 2022/03/09 22:26:05 main.go:126: Message received: {"t":"m","x":0,"y":0,"s":""}
+TRACE: 2022/03/09 22:26:42 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:26:42 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:26:48 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:26:48 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:27:27 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:27:27 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:27:33 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:27:33 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:28:24 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:28:24 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:28:30 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:28:30 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:28:33 main.go:90: Message size in bytes: 28
+TRACE: 2022/03/09 22:28:33 main.go:126: Message received: {"t":"m","x":0,"y":0,"s":""}
+TRACE: 2022/03/09 22:28:34 main.go:90: Message size in bytes: 28
+TRACE: 2022/03/09 22:28:34 main.go:126: Message received: {"t":"m","x":0,"y":0,"s":""}
+TRACE: 2022/03/09 22:29:32 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:29:32 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:29:37 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:29:37 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:29:40 main.go:90: Message size in bytes: 28
+TRACE: 2022/03/09 22:29:40 main.go:126: Message received: {"t":"m","x":0,"y":0,"s":""}
+TRACE: 2022/03/09 22:29:41 main.go:90: Message size in bytes: 28
+TRACE: 2022/03/09 22:29:41 main.go:126: Message received: {"t":"m","x":0,"y":0,"s":""}
+TRACE: 2022/03/09 22:30:00 main.go:90: Message size in bytes: 34
+ERROR: 2022/03/09 22:30:00 main.go:142: Unable to unmarshal json to struct: json: cannot unmarshal string into Go struct field IncomingMessage.x of type int
+TRACE: 2022/03/09 22:30:00 main.go:126: Message received: {"t":"m","x":"10","y":"10","s":""}
+TRACE: 2022/03/09 22:30:34 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:30:34 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:30:40 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:30:40 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:30:51 main.go:90: Message size in bytes: 37
+ERROR: 2022/03/09 22:30:51 main.go:142: Unable to unmarshal json to struct: json: cannot unmarshal string into Go struct field IncomingMessage.x of type int
+TRACE: 2022/03/09 22:30:51 main.go:126: Message received: {"t":"move","x":"10","y":"10","s":""}
+TRACE: 2022/03/09 22:30:53 main.go:90: Message size in bytes: 37
+ERROR: 2022/03/09 22:30:53 main.go:142: Unable to unmarshal json to struct: json: cannot unmarshal string into Go struct field IncomingMessage.x of type int
+TRACE: 2022/03/09 22:30:53 main.go:126: Message received: {"t":"move","x":"10","y":"10","s":""}
+TRACE: 2022/03/09 22:31:59 main.go:90: Message size in bytes: 37
+ERROR: 2022/03/09 22:31:59 main.go:142: Unable to unmarshal json to struct: json: cannot unmarshal string into Go struct field IncomingMessage.x of type int
+TRACE: 2022/03/09 22:31:59 main.go:126: Message received: {"t":"move","x":"10","y":"10","s":""}
+TRACE: 2022/03/09 22:32:00 main.go:90: Message size in bytes: 37
+ERROR: 2022/03/09 22:32:00 main.go:142: Unable to unmarshal json to struct: json: cannot unmarshal string into Go struct field IncomingMessage.x of type int
+TRACE: 2022/03/09 22:32:00 main.go:126: Message received: {"t":"move","x":"10","y":"10","s":""}
+TRACE: 2022/03/09 22:32:01 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:32:01 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:32:06 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:32:06 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:32:08 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:32:08 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:32:10 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:32:10 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:32:11 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:32:11 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:32:36 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:32:36 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:32:37 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:32:37 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:32:37 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:32:37 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:33:37 main.go:90: Message size in bytes: 27
+TRACE: 2022/03/09 22:33:37 main.go:126: Message received: {"t":"move","x":0,"y":-696}
+TRACE: 2022/03/09 22:34:04 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:34:04 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:34:47 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:34:47 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:34:54 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:34:54 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:35:05 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:35:05 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:35:06 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:35:06 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:35:16 main.go:90: Message size in bytes: 30
+ERROR: 2022/03/09 22:35:16 main.go:142: Unable to unmarshal json to struct: json: cannot unmarshal string into Go struct field IncomingMessage.x of type int
+TRACE: 2022/03/09 22:35:16 main.go:126: Message received: {"t":"move","x":"10","y":"10"}
+TRACE: 2022/03/09 22:35:44 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:35:44 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:35:52 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:35:52 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:35:58 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:35:58 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:36:35 main.go:90: Message size in bytes: 30
+ERROR: 2022/03/09 22:36:35 main.go:142: Unable to unmarshal json to struct: json: cannot unmarshal string into Go struct field IncomingMessage.x of type int
+TRACE: 2022/03/09 22:36:35 main.go:126: Message received: {"t":"move","x":"30","y":"30"}
+TRACE: 2022/03/09 22:38:46 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:38:46 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:38:51 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:38:51 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:38:57 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:38:57 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:38:59 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:38:59 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:39:07 main.go:90: Message size in bytes: 30
+ERROR: 2022/03/09 22:39:07 main.go:142: Unable to unmarshal json to struct: json: cannot unmarshal string into Go struct field IncomingMessage.x of type int
+TRACE: 2022/03/09 22:39:07 main.go:126: Message received: {"t":"move","x":"10","y":"10"}
+TRACE: 2022/03/09 22:39:22 main.go:90: Message size in bytes: 30
+ERROR: 2022/03/09 22:39:22 main.go:142: Unable to unmarshal json to struct: json: cannot unmarshal string into Go struct field IncomingMessage.x of type int
+TRACE: 2022/03/09 22:39:22 main.go:126: Message received: {"t":"move","x":"10","y":"10"}
+TRACE: 2022/03/09 22:39:45 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:39:45 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:41:33 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:41:33 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:41:41 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:41:41 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:41:43 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:41:43 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:41:55 main.go:90: Message size in bytes: 26
+TRACE: 2022/03/09 22:41:55 main.go:126: Message received: {"t":"move","x":10,"y":10}
+TRACE: 2022/03/09 22:42:22 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:42:22 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:42:26 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:42:26 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:42:40 main.go:90: Message size in bytes: 26
+TRACE: 2022/03/09 22:42:40 main.go:126: Message received: {"t":"move","x":20,"y":20}
+TRACE: 2022/03/09 22:42:53 main.go:90: Message size in bytes: 27
+TRACE: 2022/03/09 22:42:53 main.go:126: Message received: {"t":"move","x":0,"y":-605}
+TRACE: 2022/03/09 22:43:28 main.go:90: Message size in bytes: 27
+TRACE: 2022/03/09 22:43:28 main.go:126: Message received: {"t":"move","x":20,"y":-20}
+TRACE: 2022/03/09 22:43:38 main.go:90: Message size in bytes: 26
+TRACE: 2022/03/09 22:43:38 main.go:126: Message received: {"t":"move","x":0,"y":-20}
+TRACE: 2022/03/09 22:43:43 main.go:90: Message size in bytes: 27
+TRACE: 2022/03/09 22:43:43 main.go:126: Message received: {"t":"move","x":0,"y":-200}
+TRACE: 2022/03/09 22:43:52 main.go:90: Message size in bytes: 27
+TRACE: 2022/03/09 22:43:52 main.go:126: Message received: {"t":"move","x":0,"y":-605}
+TRACE: 2022/03/09 22:44:41 main.go:90: Message size in bytes: 27
+TRACE: 2022/03/09 22:44:41 main.go:126: Message received: {"t":"move","x":0,"y":-605}
+TRACE: 2022/03/09 22:44:52 main.go:90: Message size in bytes: 27
+TRACE: 2022/03/09 22:44:52 main.go:126: Message received: {"t":"move","x":0,"y":-605}
+TRACE: 2022/03/09 22:46:21 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:46:21 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:46:27 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:46:27 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:46:41 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:46:41 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:47:19 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:47:19 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:47:31 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:47:31 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:47:45 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:47:45 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:47:47 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:47:47 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:47:57 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:47:57 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:49:00 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:49:00 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:50:32 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:50:32 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:50:42 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:50:42 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:50:50 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:50:50 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:50:52 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:50:52 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:51:10 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:51:10 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:53:07 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:53:07 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:53:13 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:53:13 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:53:23 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:53:23 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:53:26 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:53:26 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:53:27 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:53:27 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:53:59 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:53:59 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:54:03 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:54:03 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:54:29 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:54:29 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:56:01 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:56:01 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:56:07 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:56:07 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:56:21 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:56:21 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:56:26 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:56:26 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:56:28 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:56:28 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:56:34 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:56:34 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:56:35 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:56:35 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:57:45 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:57:45 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:58:53 main.go:109: Stdin closed.
+TRACE: 2022/03/09 22:58:53 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 22:58:59 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 22:58:59 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 22:59:17 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 22:59:17 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 22:59:26 main.go:90: Message size in bytes: 26
+TRACE: 2022/03/09 22:59:26 main.go:126: Message received: {"t":"move","x":20,"y":20}
+TRACE: 2022/03/09 23:00:36 main.go:109: Stdin closed.
+TRACE: 2022/03/09 23:00:36 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 23:00:42 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 23:00:42 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 23:00:47 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 23:00:47 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 23:00:49 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 23:00:49 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 23:00:56 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 23:00:56 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 23:00:56 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 23:00:56 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 23:00:57 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 23:00:57 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 23:00:57 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 23:00:57 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 23:00:57 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/09 23:00:57 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/09 23:01:39 main.go:109: Stdin closed.
+TRACE: 2022/03/09 23:01:39 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/09 23:01:44 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/09 23:01:44 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/09 23:02:38 main.go:109: Stdin closed.
+TRACE: 2022/03/09 23:02:38 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/10 09:12:52 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/10 09:12:52 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/10 09:13:54 main.go:109: Stdin closed.
+TRACE: 2022/03/10 09:13:54 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/10 09:16:33 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/10 09:16:33 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/10 09:17:31 main.go:109: Stdin closed.
+TRACE: 2022/03/10 09:17:31 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/10 09:17:35 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/10 09:17:35 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/10 09:17:40 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/10 09:17:40 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/10 09:17:44 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/10 09:17:44 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/10 09:18:43 main.go:109: Stdin closed.
+TRACE: 2022/03/10 09:18:43 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/10 09:18:47 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/10 09:18:48 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/10 09:19:05 main.go:109: Stdin closed.
+TRACE: 2022/03/10 09:19:05 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/10 09:19:23 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/10 09:19:23 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/10 09:19:35 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/10 09:19:35 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/10 09:20:30 main.go:109: Stdin closed.
+TRACE: 2022/03/10 09:20:30 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/10 09:33:23 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/10 09:33:23 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/10 09:33:28 main.go:109: Stdin closed.
+TRACE: 2022/03/10 09:33:28 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/10 09:33:34 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/10 09:33:34 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/10 09:33:37 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/10 09:33:37 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/10 09:33:51 main.go:90: Message size in bytes: 25
+TRACE: 2022/03/10 09:33:51 main.go:126: Message received: {"t":"move","x":0,"y":30}
+TRACE: 2022/03/10 09:33:59 main.go:90: Message size in bytes: 25
+TRACE: 2022/03/10 09:33:59 main.go:126: Message received: {"t":"move","x":0,"y":80}
+TRACE: 2022/03/10 09:34:03 main.go:109: Stdin closed.
+TRACE: 2022/03/10 09:34:03 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/10 09:34:07 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/10 09:34:07 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/10 09:34:15 main.go:90: Message size in bytes: 26
+TRACE: 2022/03/10 09:34:15 main.go:126: Message received: {"t":"move","x":0,"y":120}
+TRACE: 2022/03/10 09:34:24 main.go:90: Message size in bytes: 26
+TRACE: 2022/03/10 09:34:25 main.go:126: Message received: {"t":"move","x":0,"y":160}
+TRACE: 2022/03/10 09:34:32 main.go:90: Message size in bytes: 26
+TRACE: 2022/03/10 09:34:32 main.go:126: Message received: {"t":"move","x":0,"y":165}
+TRACE: 2022/03/10 09:35:55 main.go:109: Stdin closed.
+TRACE: 2022/03/10 09:35:55 main.go:72: Chrome native messaging host exited.
+TRACE: 2022/03/10 09:36:04 main.go:70: Chrome native messaging host started. Native byte order: LittleEndian.
+TRACE: 2022/03/10 09:36:04 main.go:80: IO buffer reader created with buffer size of 8192.
+TRACE: 2022/03/10 09:36:07 main.go:90: Message size in bytes: 24
+TRACE: 2022/03/10 09:36:07 main.go:126: Message received: {"t":"move","x":0,"y":0}
+TRACE: 2022/03/10 09:36:16 main.go:90: Message size in bytes: 26
+TRACE: 2022/03/10 09:36:16 main.go:126: Message received: {"t":"move","x":0,"y":160}
+TRACE: 2022/03/10 09:36:31 main.go:90: Message size in bytes: 28
+TRACE: 2022/03/10 09:36:31 main.go:126: Message received: {"t":"move","x":334,"y":487}
+TRACE: 2022/03/10 09:36:51 main.go:109: Stdin closed.
+TRACE: 2022/03/10 09:36:51 main.go:72: Chrome native messaging host exited.
