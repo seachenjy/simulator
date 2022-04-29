@@ -67,6 +67,10 @@ func main() {
 		defer file.Close()
 	}
 
+	send(OutgoingMessage{
+		Query:    "first send",
+		Response: true,
+	})
 	Trace.Printf("Chrome native messaging host started. Native byte order: %v.", nativeEndian)
 	read()
 	Trace.Print("Chrome native messaging host exited.")
